@@ -12,5 +12,5 @@ new account: baum#5842
 
 ![](https://img.shields.io/github/followers/baum1810.svg?style=social&label=Follow&maxAge=2592000)
 
-![](https://img.shields.io/github/stars/baum1810/fixed-token-grabber.svg)
+
 
