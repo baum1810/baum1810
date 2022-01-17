@@ -10,5 +10,6 @@ new account: baum#5842
 
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
 
-<img alt=”React” src=”https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+![](https://img.shields.io/github/followers/baum1810.svg?style=social&label=Follow&maxAge=2592000)
+![](https://img.shields.io/github/downloads/baum1810/fixed-token-grabber/total.svg)
 
