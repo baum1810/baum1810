@@ -4,6 +4,7 @@ Discord:
 old account which go banned: baum#2873
 new account: baum#5842
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=baum1810)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baum1810&layout=compact)]
+![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=baum1810)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baum1810&layout=compact)
 
