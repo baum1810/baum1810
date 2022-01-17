@@ -8,3 +8,5 @@ new account: baum#5842
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baum1810&layout=compact)
 
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+
