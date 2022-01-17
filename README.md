@@ -11,5 +11,6 @@ new account: baum#5842
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
 
 ![](https://img.shields.io/github/followers/baum1810.svg?style=social&label=Follow&maxAge=2592000)
-![](https://img.shields.io/github/downloads/baum1810/fixed-token-grabber/total.svg)
+
+![](https://img.shields.io/github/stars/baum1810/fixed-token-grabber.svg)
 
