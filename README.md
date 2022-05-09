@@ -2,12 +2,9 @@ Coding in: Python, Batch ,vbs, Lua Remotes, a bit js, and some others
 
 Discord: 
 
-
 baum#5842
 
-
 old accounts which go banned: 
-
 
 baum#2873
 
