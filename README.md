@@ -2,10 +2,11 @@ Coding in: Python, Batch ,vbs, Lua Remotes, a bit js, and some others
 
 Discord: 
 
-baum#5842
+Asura#0946
 
 old accounts which go banned: 
 
+baum#5842
 baum#2873
 
 baumi#0946
