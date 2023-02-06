@@ -1,8 +1,7 @@
 # about me
-Age: 18
-Country: Germany
-
-Coding in: Python, Batch ,vbs, Lua Remotes, a bit js, and some others
+- Age: 18
+- Country: Germany
+- Coding in: Python, Batch ,vbs, Lua Remotes, a bit js, and some others
 
 
 ## Contact
@@ -16,6 +15,7 @@ old accounts which go banned:
 - baum#5842
 - baum#2873
 - baumi#0946
+
 
 
 ### Profile visits
