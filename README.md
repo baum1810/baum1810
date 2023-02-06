@@ -19,10 +19,10 @@ baum#5842
 baum#2873
 baumi#0946
 
-<p> <img src="https://profile-counter.glitch.me/TasosY2K/count.svg" /> </p>  
+<p> <img src="https://profile-counter.glitch.me/baum1810/count.svg" /> </p>  
 
 
-![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=baum1810)
+![6hr's GitHub stats](https://github-readme-stats.vercel.app/api?username=baum1810&show_icons=true&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baum1810&layout=compact)
 
