@@ -13,7 +13,7 @@
 ### My Github Stats
 ![6hr's GitHub stats](https://github-readme-stats.vercel.app/api?username=baum1810&show_icons=true&theme=transparent)
 
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=baum1810&hide=php&theme=tokyonight)
 
 
 
