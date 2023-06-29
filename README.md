@@ -2,6 +2,7 @@
 - Age: 18
 - Country: Germany
 - Coding in: Python, Batch ,vbs, Lua Remotes, a bit js, and some others
+- discord: baum1810
 
 
 
