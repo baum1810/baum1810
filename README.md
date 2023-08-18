@@ -4,7 +4,7 @@
 - Coding in: Python, Batch ,vbs, Lua Remotes, a bit js, and some others
 - discord: a.s.u.ra
 
-
+## [discord server](https://dsc.gg/idkwhattoputhere)
 
 
 
