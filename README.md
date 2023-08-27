@@ -2,7 +2,7 @@
 - Age: 18
 - Country: Germany
 - Coding in: Python, Batch ,vbs, Lua Remotes, a bit js, and some others
-- discord: a.s.u.ra
+- discord: asura0946
 
 ## [discord server](https://discord.gg/AnNdce9z)
 
@@ -20,14 +20,14 @@
 
 ## Contact
 Discord: 
-a.s.u.ra
-
+asura0946
 
 
 
 
 old accounts which go banned: 
-baum1810
+- a.s.u.ra
+- baum1810
 - Asura#0946
 - baum#5842
 - baum#2873
