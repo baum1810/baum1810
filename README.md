@@ -19,19 +19,11 @@
 
 
 ## Contact
-Discord: 
-asura0946
+Discord id: 
+1145381508538966127
 
 
 
-
-old accounts which go banned: 
-- a.s.u.ra
-- baum1810
-- Asura#0946
-- baum#5842
-- baum#2873
-- baumi#0946
 
 ### best quote ive heard
 Hacking is like sex, you need breath, in the last step, you feel incredible pleasure and the best time to practice it is at night.
