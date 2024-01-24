@@ -1,7 +1,7 @@
 # about me
 - Country: Germany
 - Coding in: Python, Batch ,vbs, Lua Remotes, a bit js, and some others
-- discord: asura0946
+- discord id: 1145381508538966127
 
 ## [discord server](https://discord.gg/xxZKnZmnWs)
 
