@@ -1,7 +1,6 @@
 # about me
 - Country: Germany
 - Coding in: Python, Batch ,vbs, Lua Remotes, a bit js, and some others
-- discord id: 1145381508538966127
 
 ## [discord server](https://discord.gg/xxZKnZmnWs)
 
@@ -14,13 +13,6 @@
 ![6hr's GitHub stats](https://github-readme-stats.vercel.app/api?username=baum1810&show_icons=true&theme=transparent)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=baum1810&hide=php&theme=tokyonight)
-
-
-
-## Contact
-Discord id: 
-1145381508538966127
-
 
 
 
