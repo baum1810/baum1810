@@ -11,16 +11,16 @@
 
 ---
 
-### Profile Views
+### Profile Visits
 <p align="center">
-  <img src="https://views.igorkowalczyk.dev/api/badge/baum1810?style=flat-square" />
+  <img src="https://views.igorkowalczyk.dev/api/badge/baum1810?style=flat" />
 </p>
 
 ---
 
-### GitHub Stats
+### My GitHub Stats
 <p align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=baum1810&cc=0d1117&tc=ffffff&ic=58a6ff&bc=30363d" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=baum1810&cc=000000&tc=ffffff&ic=ffffff&bc=000000" />
 </p>
 
 <p align="center">
@@ -31,4 +31,4 @@
 
 ### Quote
 
-> "Hacking is like sex. You need breath. In the final step, you feel incredible pleasure — and the best time to practice is at night."
+> Hacking is like sex. You need breath. In the last step, you feel incredible pleasure — and the best time to practice it is at night.
