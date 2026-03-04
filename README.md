@@ -1,22 +1,34 @@
-# about me
-- Country: Germany
-- Coding in: Python, Batch ,vbs, Lua Remotes, a bit js, and some others
+<h1 align="center">Hi, I'm baum1810</h1>
 
-## [discord server](https://discord.gg/xxZKnZmnWs)
+<p align="center">
+  🇩🇪 Germany <br>
+  💻 Python • HTML • CSS • PHP • JavaScript • Batch • VBS • Lua (Remotes)
+</p>
 
+<p align="center">
+  <a href="https://discord.gg/xxZKnZmnWs">Join my Discord Server</a>
+</p>
 
+---
 
-### Profile visits
-![Profile views](https://views.igorkowalczyk.dev/api/badge/baum1810?style=flat)
+### Profile Views
+<p align="center">
+  <img src="https://views.igorkowalczyk.dev/api/badge/baum1810?style=flat-square" />
+</p>
 
+---
 
-### My Github Stats
-![6hr's GitHub stats](https://github-stats-alpha.vercel.app/api?username=baum1810&cc=000000&tc=ffffff&ic=ffffff&bc=000000)
+### GitHub Stats
+<p align="center">
+  <img src="https://github-stats-alpha.vercel.app/api?username=baum1810&cc=0d1117&tc=ffffff&ic=58a6ff&bc=30363d" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=baum1810&hide=php&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baum1810&hide=php&theme=tokyonight" />
+</p>
 
+---
 
+### Quote
 
-### best quote ive heard
-Hacking is like sex, you need breath, in the last step, you feel incredible pleasure and the best time to practice it is at night.
-
+> "Hacking is like sex. You need breath. In the final step, you feel incredible pleasure — and the best time to practice is at night."
