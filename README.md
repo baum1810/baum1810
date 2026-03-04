@@ -23,10 +23,6 @@
   <img src="https://github-stats-alpha.vercel.app/api?username=baum1810&cc=000000&tc=ffffff&ic=ffffff&bc=000000" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baum1810&hide=php&theme=tokyonight" />
-</p>
-
 ---
 
 ### Quote
