@@ -7,7 +7,8 @@
 
 
 ### Profile visits
-<p> <img src="https://profile-counter.glitch.me/baum1810/count.svg" /> </p>  
+![Profile views](https://views.igorkowalczyk.dev/api/badge/baum1810?style=flat)
+
 
 ### My Github Stats
 ![6hr's GitHub stats](https://github-stats-alpha.vercel.app/api?username=baum1810&cc=000000&tc=ffffff&ic=ffffff&bc=000000)
